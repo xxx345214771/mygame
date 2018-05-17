@@ -1,0 +1,19 @@
+[2018-05-17 14:22:40.353] [INFO] pomelo-admin - [32m[MqttServer] [39m[MqttServer] listen on 3005
+[2018-05-17 14:22:40.367] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "master", "127.0.0.1", 3005
+[2018-05-17 14:22:40.932] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "connector", "127.0.0.1", 3005
+[2018-05-17 14:28:17.845] [INFO] pomelo-admin - [32m[MqttServer] [39m[MqttServer] listen on 3005
+[2018-05-17 14:28:17.857] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "master", "127.0.0.1", 3005
+[2018-05-17 14:28:18.163] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "connector", "127.0.0.1", 3005
+[2018-05-17 14:39:42.343] [INFO] pomelo-admin - [32m[MasterAgent] [39mclient user : admin login to master
+[2018-05-17 14:39:42.560] [DEBUG] pomelo-admin - [36m[MasterSocket] [39mdisconnect pomelo_list_1526539182215 client "client"
+[2018-05-17 14:39:42.565] [INFO] pomelo-admin - [32m[MasterSocket] [39mclient user admin exit
+[2018-05-17 15:11:46.266] [INFO] pomelo-admin - [32m[MasterAgent] [39mclient user : admin login to master
+[2018-05-17 15:13:21.590] [INFO] pomelo-admin - [32m[MqttServer] [39m[MqttServer] listen on 3005
+[2018-05-17 15:13:21.610] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "master", "127.0.0.1", 3005
+[2018-05-17 15:13:22.453] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "connector", "127.0.0.1", 3005
+[2018-05-17 15:13:50.455] [INFO] pomelo-admin - [32m[MqttServer] [39m[MqttServer] listen on 3005
+[2018-05-17 15:13:50.477] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "master", "127.0.0.1", 3005
+[2018-05-17 15:13:50.845] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "connector", "127.0.0.1", 3005
+[2018-05-17 15:16:04.747] [INFO] pomelo-admin - [32m[MqttServer] [39m[MqttServer] listen on 3005
+[2018-05-17 15:16:04.762] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "master", "127.0.0.1", 3005
+[2018-05-17 15:16:05.077] [INFO] pomelo-admin - [32m[ConsoleService] [39mtry to connect master: "connector", "127.0.0.1", 3005
